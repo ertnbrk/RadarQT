@@ -1,7 +1,7 @@
 # Ship Telemetry & Radar System
 
 A professional-grade ship telemetry and radar visualization system built with Qt/C++. Features real-time position tracking, reliable UDP+ACK communication protocol, and authentic maritime radar display with wave-based scanning animation.
-
+![Radar Panel](src/img.png)
 ## 🚢 Features
 
 ### Real-time Ship Tracking
